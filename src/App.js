@@ -48,5 +48,6 @@ function BookList() {
     </div>
   );
 }
+export default BookList;
 
-ReactDOM.render(<BookList />, document.getElementById('root'));
+
